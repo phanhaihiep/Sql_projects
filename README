@@ -1,0 +1,5 @@
+SQL
+1. Relational database (primary key, foreign key, interger, text, date, real)
+2. SQL statment (create table, insert into, select, alter table, update, delete from)
+3. Aggregate functions (count, sum, max, min, avg, round, group by, having)
+4. Multiple tables (join, left join, cross join, union, with)
