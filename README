@@ -1,8 +1,8 @@
 SQL
 1. Relational database (primary key, foreign key, interger, text, date, real)
-2. SQL statment (create table, insert into, select, alter table, update, delete from)
+2. SQL statement (create table, insert into, select, alter table, update, delete from)
 3. Aggregate functions (count, sum, max, min, avg, round, group by, having)
 4. Multiple tables (join, left join, cross join, union, with)
-5. Advance arregates (daily counts, 
+5. Advance aggregates (daily counts, case, grouping, product sum)
 
 *Exhaustive SQL cheatsheet: https://hackr.io/blog/sql-cheat-sheet
